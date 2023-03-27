@@ -1,0 +1,26 @@
+body {
+  background-color: #262a56;
+}
+h1 {
+  font-size: 2rem;
+  color: aliceblue;
+  text-align: center;
+  margin-top: 70px;
+}
+
+h3 {
+  font-size: 2rem;
+  color: aliceblue;
+  text-align: center;
+}
+h3:hover {
+  cursor: pointer;
+}
+h4 {
+  font-size: 1.5rem;
+  color: aliceblue;
+  text-align: center;
+}
+img {
+  margin-left: 475px;
+}
